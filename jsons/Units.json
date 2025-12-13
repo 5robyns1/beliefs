@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Appointed Shepherds",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniqueTo": "True Israel",
+		"replaces": "Composite Archer",
+		"movement": 3,
+		"strength": 100,
+		"rangedStrength": 56,
+		"range": 5,
+		"cost": 1000,
+		"requiredTech": "Animal Husbandry",
+		"requiredResource": "Sheep",
+		"promotions": ["Heal Instantly","Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
+		"attackSound": "slingshot"
 	}
 ]
