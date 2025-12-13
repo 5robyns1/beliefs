@@ -4,32 +4,33 @@
 		"leaderName": "David",
 		"adjective": ["Christian"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "For the glory of God, the Father.",
 		"startIntroPart2": "All for the glory of Jesus Christ.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "There goes your tower.",
+		"attacked": "No weapon formed against God's people shall prosper. You will be a witness.",
+		"defeated": "The LORD will avenge.",
+		"introduction": "We come in peace.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "We come in peace",
+		"neutralLetsHearIt": ["Hello!","Yes?"],
+		"neutralNo": ["This isn't a wise decision for us. We decline.","No!"],
+		"neutralYes": ["Wonderful! May the LORD bless you.","Yes."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "We come in peace.",
+		"hateLetsHearIt": "Speak.",
+		"hateNo": ["Have you devised wickedness within your heart to sin against the LORD?","Why have you purposed in your heart to do wickedness against the LORD? Repent, turn ye from your wicked ways. Be made clean by the blood of Jesus; stop hating the LORD."],
+		"hateYes": ["We accept, but we humbly ask you to repent for your sins.","Yes."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "You have chosen well. May God bless you.",
+		"tradeRequest": "We humbly make this request to you.",
 
 		"outerColor": [81,186,239],
 		"innerColor": [255,255,255],
-		"unique": "",
-		"cities": [""]
+		"uniqueName":"Jesus is King",
+		"uniques":["[+10 Faith]","Starts with [Mining]"],
+		"cities": ["Jerusalem","Bethlehem","Nazareth","Capernaum","Hebron","Jericho","Samaria"]
 	}
 ]
