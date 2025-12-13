@@ -10,7 +10,6 @@
 		"faith":100,
 		"maintenance": 10,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "",
-		"requiredTech": ""
+		"requiredTech": "Pottery"
 	}
 ]
