@@ -12,6 +12,7 @@
 		"requiredTech": "Animal Husbandry",
 		"requiredResource": "Sheep",
 		"promotions": ["Heal Instantly","Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
-		"attackSound": "slingshot"
+		"attackSound": "slingshot",
+		"uniques":["Can be purchased with [Faith] [in all cities]"]
 	}
 ]
