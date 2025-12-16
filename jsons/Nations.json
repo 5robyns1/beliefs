@@ -27,8 +27,8 @@
 		"afterPeace": "You have chosen well. May God bless you.",
 		"tradeRequest": "We humbly make this request to you.",
 
-		"outerColor": [81,186,239],
-		"innerColor": [255,255,255],
+		"outerColor": [68, 152, 194],
+		"innerColor": [249, 202, 59],
 		"uniqueName":"Jesus is King",
 		"uniques":["[+10 Faith]","Starts with [Mining]"],
 		"cities": ["Jerusalem","Bethlehem","Nazareth","Capernaum","Hebron","Jericho","Samaria"]
