@@ -1,5 +1,8 @@
-# Unciv-mod-example
+#Epic nation adder
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+- Adds King David
+- Adds a unit
+- Adds a nation
+- Adds a building
+---
+Beliefs coming soon!
