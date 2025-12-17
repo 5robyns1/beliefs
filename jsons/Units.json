@@ -5,14 +5,26 @@
 		"uniqueTo": "True Israel",
 		"replaces": "Composite Bowman",
 		"movement": 3,
+		"production":1000,
 		"strength": 100,
 		"rangedStrength": 56,
 		"range": 5,
-		"cost": 1000,
+		"cost": 985,
 		"requiredTech": "Animal Husbandry",
 		"requiredResource": "Sheep",
-		"promotions": ["Heal Instantly","Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
+		"promotions": ["Heal Instantly","Accuracy II", "Barrage I", "Bombardment I", "Targeting II"],
 		"attackSound": "slingshot",
-		"uniques":["Can be purchased with [Faith] [in all cities]"]
+		"uniques":[
+			"Can be purchased with [Faith] [in all cities]",
+			"Can Spread Religion",
+			"Consumes [3] [Sheep]",
+			"Removes other religions when spreading religion",
+			"[+10] Sight",
+			"[+5] Strength",
+			"[+10] Range",
+			"[3] HP when healing",
+			"Can move immediately once bought",
+			"All adjacent units heal [3] HP when healing"
+		]
 	}
 ]
