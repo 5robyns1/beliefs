@@ -21,7 +21,9 @@
 			"[+10] Range",
 			"[3] HP when healing",
 			"Can move immediately once bought",
-			"All adjacent units heal [3] HP when healing"
+			"All adjacent units heal [3] HP when healing",
+			"[19]% production cost <in cities following our religion>",
+			"Provides the cheapest [Production] building in your first [10] cities for free"
 		]
 	}
 ]
