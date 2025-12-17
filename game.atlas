@@ -1,0 +1,13 @@
+game.png
+size:1024,1024
+filter:MipMapLinearNearest,MipMapNearestLinear
+repeat:none
+UnitIcons/Appointed Shepherds
+bounds:3,3,374,366
+offsets:17,21,408,408
+BuildingIcons/The Church of Jesus Christ
+bounds:396,3,390,408
+offsets:9,0,408,408
+NationIcons/True Israel
+bounds:3,414,284,408
+offsets:62,0,408,408
