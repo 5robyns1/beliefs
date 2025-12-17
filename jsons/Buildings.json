@@ -5,11 +5,24 @@
 		"uniqueTo": "True Israel",
 		"cost": 100,
 		"happiness": 450,
+		"production":100,
 		"culture": 40,
 		"science": 40,
 		"faith":100,
 		"maintenance": 10,
 		"isNationalWonder": true,
-		"requiredTech": "Pottery"
+		"requiredTech": "Pottery",
+		"uniques":[
+			"Consumes [2] [Oak]",
+			"Free Technology", "[2] Free Technologies",
+			"Adopt [Patronage]",
+			"Adopt [Commerce]",
+			"Adopt [Beautiful world]",
+			"Gain [20] Faith",
+			"Can be purchased for [30] [Faith] [in all cities]",
+			"Only Available <when religion is enabled>",
+			 "[+20]% Gold given to enemy if city is captured",
+			"[+10 Faith, +10 Production]"
+		]
 	}
 ]
