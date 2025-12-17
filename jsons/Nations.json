@@ -30,7 +30,7 @@
 		"outerColor": [68, 152, 194],
 		"innerColor": [249, 202, 59],
 		"uniqueName":"Jesus is King",
-		"uniques":["[+10 Faith]","Starts with [Mining]","Starts with [Agriculture]","[3]% Food is carried over after population increases [in all cities]"],
+		"uniques":["[+31 Faith] <upon entering a Golden Age>","[+10 Faith]","[+100 Faith] <when at war>","Starts with [Mining]","Starts with [Agriculture]","[3]% Food is carried over after population increases [in all cities]"],
 		"cities": ["Jerusalem","Bethlehem","Nazareth","Capernaum","Hebron","Jericho","Samaria"]
 	}
 ]
